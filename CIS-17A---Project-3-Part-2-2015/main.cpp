@@ -45,7 +45,6 @@ int main()
 		}
 	}
 	system("pause");
-	return 0;
 }
 
 shared_ptr<Folder> NavigateToFolder(shared_ptr<Folder> currentFolder) 
